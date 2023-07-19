@@ -1,6 +1,6 @@
 ### Hi there 👋 
 - 🔭 I’m currently working on ... Learning the basics. 
-- 🌱 I’m currently learning ... GitHub..
+- 🌱 I’m currently learning ... CSS..
 - 👯 I’m looking to collaborate on ... Anything, and everything.
 - 🤔 I’m looking for help with ... Everything, I am new and not perfect.
 - 💬 Ask me about ... Anything, I am pretty open.
